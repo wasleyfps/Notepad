@@ -1,0 +1,14 @@
+C:\Users\wasle\Documents\GitHub\Notepad\bin\Debug\net8.0\Notepad.exe
+C:\Users\wasle\Documents\GitHub\Notepad\bin\Debug\net8.0\Notepad.deps.json
+C:\Users\wasle\Documents\GitHub\Notepad\bin\Debug\net8.0\Notepad.runtimeconfig.json
+C:\Users\wasle\Documents\GitHub\Notepad\bin\Debug\net8.0\Notepad.dll
+C:\Users\wasle\Documents\GitHub\Notepad\bin\Debug\net8.0\Notepad.pdb
+C:\Users\wasle\Documents\GitHub\Notepad\obj\Debug\net8.0\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasle\Documents\GitHub\Notepad\obj\Debug\net8.0\Notepad.AssemblyInfoInputs.cache
+C:\Users\wasle\Documents\GitHub\Notepad\obj\Debug\net8.0\Notepad.AssemblyInfo.cs
+C:\Users\wasle\Documents\GitHub\Notepad\obj\Debug\net8.0\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\wasle\Documents\GitHub\Notepad\obj\Debug\net8.0\Notepad.dll
+C:\Users\wasle\Documents\GitHub\Notepad\obj\Debug\net8.0\refint\Notepad.dll
+C:\Users\wasle\Documents\GitHub\Notepad\obj\Debug\net8.0\Notepad.pdb
+C:\Users\wasle\Documents\GitHub\Notepad\obj\Debug\net8.0\Notepad.genruntimeconfig.cache
+C:\Users\wasle\Documents\GitHub\Notepad\obj\Debug\net8.0\ref\Notepad.dll
